@@ -10,8 +10,6 @@ focusing on the critical points sampled from fine-grained Landmark-RxR. Moreover
 
 [[Paper](https://proceedings.neurips.cc/paper/2021/file/0602940f23884f782058efac46f64b0f-Paper.pdf)] [[Supplemental](https://proceedings.neurips.cc/paper/2021/file/0602940f23884f782058efac46f64b0f-Supplemental.pdf)]
 
-## Codes
-Coming soon.
 
 ## Dataset Download
 
